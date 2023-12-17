@@ -1,12 +1,3 @@
-"""
-@author: Hamed Hojatian
-
-Complex aljebra for pytorch in case that pytorch 
-version doesn't support complex tensor (V 1.8 and 
-later support complex tensor and aljebra)
-"""
-
-
 import torch
 from numpy import genfromtxt
 import numpy as np
